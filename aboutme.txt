@@ -2,3 +2,5 @@ Hello world
 I'm Habeebah Olasubomi
 
 I have been able to push my first task to Github
+
+Now i'm trying to practice to hone my skills by repeating the processes
